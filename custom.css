@@ -1,0 +1,177 @@
+
+body, h1, h2, h3, p {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3 {
+	line-height: 50px;
+	margin-bottom: 36px;
+}
+
+h2 {
+
+	font-weight: lighter;
+}
+
+h5 {
+	line-height: 1.7;
+}
+
+p {
+	line-height: 30px;
+
+}
+
+footer {
+	margin-bottom: 100px;
+}
+
+#block-1-1 {
+ margin-top: 180px;
+ margin-bottom: 80px;
+}
+
+#block-1-2 {
+ margin-top: 60px;
+ margin-bottom: 120px;
+}
+
+#block-1-3 {
+ margin-top: 100px;
+ margin-bottom: 220px;
+}
+
+#block-1-4 {
+ margin-top: 120px;
+ margin-bottom: 20px;
+}
+
+#block-1-5 {
+ margin-top: 40px;
+ margin-bottom: 80px;
+}
+
+#block-1-5 h5 {
+	line-height: 35px;
+	margin-bottom: 35px;
+}
+
+#block-1-6 {
+}
+
+ #block-1-7 {
+  margin-top: 40px;
+  margin-bottom: 140px;
+ }
+
+.jumbotron {
+	  height: 700px;
+	  color: white;
+	  margin-bottom: -15px;
+}
+
+.jumbtron h5 {
+		line-height: 30px;
+		margin-top: 15px;
+		margin-bottom: 15px;
+}
+
+.jumbo-top {
+		background-image: url(images/header-at-a-glance.jpg); 
+		margin-top: -80px;
+	    background-size: cover;
+	    min-height: 800px;
+	    height: 100%;
+}
+
+.overlay {
+	background-color: black;
+
+}
+
+.jumbo-platform {
+		background-image: url(images/platformheader.png); 
+		margin-top: -80px;
+	  background-size: cover;
+}
+
+.jumbo-footer {
+		height: 700px;
+		background: no-repeat center center;
+		background-image: url(images/footer.png); 
+	  background-size: cover;
+	  color: white;
+}
+
+.jumbo-footer h1 {
+	color: #50E3C2;
+}
+
+.jumbo-footer a {
+	margin:20px;
+}
+
+.header-content {
+	margin-top: 200px;
+	background-color: transparent;
+}
+
+
+.footer-content {
+	margin-top: 140px;
+	background-color: transparent;
+}
+
+.btn {
+	font-family: montserrat;
+}
+
+.btn-primary {
+	color: #000000;
+	background-color: #50E3C2;
+	border: none;
+}
+
+
+.content-block{
+	height: 500px;
+}
+
+.nav-item {
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.navbar {
+	height: 80px;
+}
+
+
+.feature-cta {
+	
+}
+
+.services-col {
+	text-align: center;
+}
+
+i {
+	margin-bottom: 25px;
+}
+
+.nav-link:hover {
+	color: #50E3C2;
+}
+
+.cta-signup {
+	background-color: white;
+	padding: 25px;
+	padding-top: 55px;
+	border-radius: 5px;
+	opacity: 0.8;
+}
+
+.cta-text {
+	padding-left:40px;
+}
+
